@@ -1,0 +1,8 @@
+#!/bin/bash
+#x = cat skrypt1.html
+#y = cat skrypt2.html
+
+echo "Zawartość plików": 
+cat $1
+cat $2
+

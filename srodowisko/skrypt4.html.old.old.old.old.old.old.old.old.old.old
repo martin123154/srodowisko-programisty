@@ -1,0 +1,10 @@
+#!/bin/bash
+
+x= cat tekst1.txt
+y= cat tekst2.txt
+z= cat x > y
+
+echo "$z"
+
+
+

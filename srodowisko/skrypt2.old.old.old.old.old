@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "Parametr 1: $@  Parametr 2: $@"
+
+
+

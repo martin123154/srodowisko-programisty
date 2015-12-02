@@ -1,0 +1,10 @@
+#!/bin/bash
+echo "Zawartosc plikow"
+cat $1
+cat $2
+
+
+
+
+
+exit 1

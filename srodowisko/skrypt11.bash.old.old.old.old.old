@@ -1,0 +1,14 @@
+#!/bin/bash
+
+for a in `ls`
+do
+echo "$0"
+echo "$a"
+	if [ $a != $0 ];
+		then 
+			cp $a $a.old
+	fi
+done
+ 
+
+  exit 0;
